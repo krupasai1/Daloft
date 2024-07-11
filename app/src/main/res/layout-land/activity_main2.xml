@@ -61,7 +61,7 @@
                     android:text="Start"
                     android:padding="2dp"
 
-                    android:textColor="@color/black"
+                    android:textColor="@color/white"
                     android:textSize="10dp"
                     />
 
@@ -88,7 +88,7 @@
                     android:text="MS"
                     android:padding="2dp"
 
-                    android:textColor="@color/black"
+                    android:textColor="@color/white"
                     android:textSize="10dp"
                     />
 
@@ -116,7 +116,7 @@
                     android:text="Auto Pilot"
                     android:padding="2dp"
 
-                    android:textColor="@color/black"
+                    android:textColor="@color/white"
                     android:textSize="10dp"
                     />
 
@@ -361,7 +361,7 @@
                 android:text="Bluetooth"
                 android:padding="2dp"
 
-                android:textColor="@color/black"
+                android:textColor="@color/white"
                 android:textSize="10dp"
                 />
 
@@ -390,7 +390,7 @@
                 android:text="Connect"
                 android:padding="2dp"
 
-                android:textColor="@color/black"
+                android:textColor="@color/white"
                 android:textSize="10dp"
                 />
 
@@ -417,7 +417,7 @@
                 android:text="Mag OS"
                 android:padding="2dp"
 
-                android:textColor="@color/black"
+                android:textColor="@color/white"
                 android:textSize="10dp"
                 />
 
