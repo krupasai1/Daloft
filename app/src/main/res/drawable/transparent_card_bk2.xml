@@ -7,9 +7,7 @@
                 android:endColor="#9912232a"
                 android:angle="180"/>
             <corners android:radius="10dp"/>
-            <stroke
-                android:width="2dp"
-                android:color="#99FFFFFF"/>
+
         </shape>
     </item>
     <item>
@@ -20,11 +18,7 @@
                 android:endColor="#9912232a"
                 android:angle="180"/>
             <corners android:radius="10dp"/>
-            <stroke
-                android:width="2dp"
-                android:color="#99FFFFFF"/>
+
         </shape>
     </item>
 </selector>
-
-
