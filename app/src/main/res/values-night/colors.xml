@@ -11,13 +11,13 @@
     <color name="lightwhite">#A6FFFFFF</color>
     <color name="mediumwhite">#E1FFFFFF</color>
     <color name="whiteshade">#7E1EB524</color>
-    <color name="transdesign2bg">#4DFFFFFF</color>
-    <color name="transcolor">#33FFFFFF</color>
-    <color name="transstartbg">#4DFFFFFF</color>
-    <color name="transmidbg">#4DFFFFFF</color>
-    <color name="transendbg">#4DFFFFFF</color>
-    <color name="transstrokebg">#4DFFFFFF</color>
-    <color name="transstartbg2">#33FFFFFF</color>
-    <color name="transmidbg2">#33FFFFFF</color>
-    <color name="transendbg2">#33FFFFFF</color>
+    <color name="transdesign2bg">#99234c56</color>
+    <color name="transcolor">#9912232a</color>
+    <color name="transstartbg">#99234c56</color>
+    <color name="transmidbg">#991a373e</color>
+    <color name="transendbg">#9912232a</color>
+    <color name="transstrokebg">#99FFFFFF</color>
+    <color name="transstartbg2">#99234c56</color>
+    <color name="transmidbg2">#991a373e</color>
+    <color name="transendbg2">#9912232a</color>
 </resources>

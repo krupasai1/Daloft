@@ -2,27 +2,23 @@
     <item android:state_pressed="true">
         <shape android:shape="rectangle">
             <gradient
-                android:startColor="#99234c56"
-                android:centerColor="#991a373e"
-                android:endColor="#9912232a"
+                android:startColor="@color/transstartbg"
+                android:centerColor="@color/transmidbg"
+                android:endColor="@color/transendbg"
                 android:angle="180"/>
             <corners android:radius="10dp"/>
-            <stroke
-                android:width="2dp"
-                android:color="#99FFFFFF"/>
+
         </shape>
     </item>
     <item>
         <shape android:shape="rectangle">
             <gradient
-                android:startColor="#99234c56"
-                android:centerColor="#991a373e"
-                android:endColor="#9912232a"
+                android:startColor="@color/transstartbg2"
+                android:centerColor="@color/transmidbg2"
+                android:endColor="@color/transendbg2"
                 android:angle="180"/>
             <corners android:radius="10dp"/>
-            <stroke
-                android:width="2dp"
-                android:color="#99FFFFFF"/>
+
         </shape>
     </item>
 </selector>

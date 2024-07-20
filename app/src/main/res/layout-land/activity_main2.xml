@@ -323,11 +323,10 @@ android:paddingLeft="4dp"
             android:backgroundTint="@android:color/transparent"
 
 
-
-            app:cardElevation="100dp"
             android:elevation="100dp"
-            android:outlineSpotShadowColor="@color/black"
             android:outlineAmbientShadowColor="@color/black"
+            android:outlineSpotShadowColor="@color/black"
+            app:cardElevation="100dp"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent">
